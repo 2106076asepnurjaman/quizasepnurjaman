@@ -1,0 +1,23 @@
+buyut(hasan).
+ayah(hasan, siti).
+ayah(hasam, aminah).
+ayah(hasan, ali).
+ayah(amir, hasna).
+ayah(abu, robby).
+ayah(abu, adam).
+ayah(ali, siddiq).
+ayah(ali, hasni).
+ayah(siddiq, mariam).
+ibu(siti, aisyah).
+ibu(siti, amir).
+ibu(siti, amir).
+ibu(aisyah, hasa).
+ibu(aminah, ramlah).
+ibu(aminah, anu).
+ibu(ramlah, robby).
+ibu(ramlah, adam).
+ibu(hasbi, mariam).
+cucu(hasna, hasan).
+cucu(robby, hasan).
+cucu(adam, hasna).
+cucu(mariam, hasna).
